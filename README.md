@@ -1,4 +1,4 @@
-## Olá!, sou Érica Canuto, estou estudando códigos e desenvolvendo...🚀💻📚
+## Olá!, sou Érica Canuto, estou estudando códigos e desenvolvendo..🚀💻📚
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
