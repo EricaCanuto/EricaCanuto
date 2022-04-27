@@ -1,4 +1,4 @@
-https://github.com/EricaCanuto/EricaCanuto/commit/6a1c3997fd7d38e4f7db18f10e9e8811a2c6993a## Olá!, sou Érica Canuto, estou estudando códigos e desenvolvendo...🚀💻📚
+## Olá!, sou Érica Canuto, estou estudando códigos e desenvolvendo...🚀💻📚
 
 <div align="center">
   <a href="https://github.com/EricaCanuto">
