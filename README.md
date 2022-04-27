@@ -17,7 +17,7 @@
   <a href="https://instagram.com/er1ca.undef1ned" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/%C3%A9rica-canuto-abb688206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ![Snake animation](https://github.com/EricaCanuto/EricaCanuto/commit/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EricaCanuto/EricaCanuto/blob/output/github-contribution-grid-snake.svg)
     </div>
  
 
